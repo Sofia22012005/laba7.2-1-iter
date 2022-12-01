@@ -1,0 +1,4 @@
+﻿  laba7.2.cpp
+C:\Users\Користувач\Desktop\лаба3ап\laba7.2\laba7.2\laba7.2.cpp(57,12): warning C4101: 'j': unreferenced local variable
+C:\Users\Користувач\Desktop\лаба3ап\laba7.2\laba7.2\laba7.2.cpp(57,9): warning C4101: 'i': unreferenced local variable
+  laba7.2.vcxproj -> C:\Users\Користувач\Desktop\лаба3ап\laba7.2\x64\Debug\laba7.2.exe
